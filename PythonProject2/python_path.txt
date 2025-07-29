@@ -1,2 +1,0 @@
-C:\Python\python.exe
-C:\Users\bravi\AppData\Local\Microsoft\WindowsApps\python.exe
